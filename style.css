@@ -27,6 +27,18 @@ p {
     font-size: 16px;
 }
 
+ul {
+    color: #4274e0;
+    font-size: 16px;
+    font-family: Tahoma, sans-serif, 'Times New Roman', Arial;
+    margin-bottom: 50px;
+}
+
+header img {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
 hr {
     display: block;
     margin-top: 0.5em;
@@ -40,7 +52,7 @@ hr {
 
 /* margin settings */
 h2 {
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 
 h3 {
@@ -59,10 +71,6 @@ main h1 {
 
 main h2 {
     margin-top: 50px;
-}
-
-header h1 {
-    margin-top: 40px;
 }
 
 /* footer */
